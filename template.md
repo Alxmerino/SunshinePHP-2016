@@ -8,4 +8,6 @@ Text for this section
 - list item 3
 
 ### Sub-section
-sub section text
+sub section text `inline-code` example
+
+``` code block example```
