@@ -1,16 +1,6 @@
----
-title: Docker For Developers
-layout: post
-author: rmerino
-permalink: /docker-for-developers/
-source-id: 11R2CC16SlzpzeqJRcG4-a8x2Taw4T52RqHZV4CGScoI
-published: true
----
-Docker For Developers
+# Docker For Developers
 
-Chris Tankersly | @dragonmantank
-
-https://github.com/dragonmantank/dockerfordevs-app
+###Chris Tankersly | @dragonmantank | https://github.com/dragonmantank/dockerfordevs-app
 
 * * *
 
