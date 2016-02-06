@@ -1,14 +1,6 @@
----
-title: The Pattern to Design Patterns
-layout: post
-author: rmerino
-permalink: /the-pattern-to-design-patterns/
-source-id: 1ZydcbPfoJ7Ra_ybAqxNBan6WLm9-dxGevw8Pc8Xfzps
-published: true
----
-The Pattern to Design Patterns
+# The Pattern to Design Patterns
 
-Chris Russell | @crussell52
+### Chris Russell | @crussell52
 
 A design pattern is a general repeatable solution to a commonly occurring problem in software design.
 
