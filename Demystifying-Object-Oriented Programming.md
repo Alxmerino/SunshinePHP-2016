@@ -1,14 +1,6 @@
----
-title: Demystifying Object-Oriented Programming
-layout: post
-author: rmerino
-permalink: /demystifying-object-oriented-programming/
-source-id: 1vnpwcei_poLLbrv85-VhAGIkk0XGv49ihaIPEdyRy1g
-published: true
----
-Demystifying Object-Oriented Programming
+# Demystifying Object-Oriented Programming
 
-Alena Holligan | @sketchings | [www.sketchings.com](http://www.sketchings.com)
+### Alena Holligan | @sketchings | [www.sketchings.com](http://www.sketchings.com)
 
 * * *
 
@@ -75,7 +67,9 @@ Polymorphism describes a pattern in OOP in which classes have different function
 
 * Multiple interfaces can be implemented by using comma separation
 
-* Interface may contain a CONSTANT, but may not be overridden by implementing class`interface UserInterface { … }class User implements UserInterface { … }
+* Interface may contain a CONSTANT, but may not be overridden by implementing class
+`interface UserInterface { … }
+class User implements UserInterface { … }
 
 ## Abstract
 
