@@ -1,14 +1,6 @@
----
-title: Give Me REST
-layout: post
-author: rmerino
-permalink: /give-me-rest/
-source-id: 14926yWMOfG0xcCq5ok2YjRKGpCOUTvUn1qsKvwJ2DYc
-published: true
----
-Give Me REST!!!
+# Give Me REST!!!
 
-Amanda Folson
+### Amanda Folson
 
 ## APIs (Application Programming Interfaces)
 
