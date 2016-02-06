@@ -1,14 +1,6 @@
----
-title: PHP Identity and Data Security
-layout: post
-author: rmerino
-permalink: /php-identity-and-data-security/
-source-id: 1XEeUV1lqJ9IgwEs1hp5sfPJ9lWzq7LIcGTl7G6aARtA
-published: true
----
-PHP Identity and Data Security
+# PHP Identity and Data Security
 
-Jonathan LeBlanc | @jcleblanc | book: bit.ly/idatasecurity
+### Jonathan LeBlanc | @jcleblanc | book: bit.ly/idatasecurity
 
 ## Protecting Against Password Attacks
 
