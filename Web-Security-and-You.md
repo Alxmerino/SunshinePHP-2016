@@ -1,14 +1,6 @@
----
-title: Web Security and You
-layout: post
-author: rmerino
-permalink: /web-security-and-you/
-source-id: 1uLQ2CK32mhnKpcWp9QYkmOj8SR2zw0ahsNoFf7OBX4I
-published: true
----
-Web Security and You
+# Web Security and You
 
-Eli White | @EliW
+### Eli White | @EliW
 
 ## The Open Web Application Security Project
 
